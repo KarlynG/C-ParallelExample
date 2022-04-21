@@ -1,0 +1,28 @@
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.exe
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.deps.json
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.runtimeconfig.json
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.runtimeconfig.dev.json
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.dll
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.pdb
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.csproj.AssemblyReference.cache
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.AssemblyInfoInputs.cache
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.AssemblyInfo.cs
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.csproj.CoreCompileInputs.cache
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.dll
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.pdb
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.genruntimeconfig.cache
+D:\External drive archives\Backup\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.exe
+D:\External drive archives\Backup\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.deps.json
+D:\External drive archives\Backup\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.runtimeconfig.json
+D:\External drive archives\Backup\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.runtimeconfig.dev.json
+D:\External drive archives\Backup\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.dll
+D:\External drive archives\Backup\ParallelTest\ParallelTest\bin\Debug\netcoreapp3.1\ParallelTest.pdb
+D:\External drive archives\Backup\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.csproj.AssemblyReference.cache
+D:\External drive archives\Backup\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\External drive archives\Backup\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.AssemblyInfoInputs.cache
+D:\External drive archives\Backup\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.AssemblyInfo.cs
+D:\External drive archives\Backup\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.csproj.CoreCompileInputs.cache
+D:\External drive archives\Backup\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.dll
+D:\External drive archives\Backup\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.pdb
+D:\External drive archives\Backup\ParallelTest\ParallelTest\obj\Debug\netcoreapp3.1\ParallelTest.genruntimeconfig.cache
